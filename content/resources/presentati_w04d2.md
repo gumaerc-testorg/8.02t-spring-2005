@@ -9,8 +9,13 @@ description: 'This resource includes the following topics: capacitors & dielectr
   rules, internal resistance, steps of solving circuit problem, example: simple circuit,
   group problem: circuit, electrical power, power: battery; resistor; capacitor, energy
   balance, prs questions: more light bulbs.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/3b7c9888831050a61eeee17e59ad5bda_presentati_w04d2.pdf
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/3b7c9888831050a61eeee17e59ad5bda_presentati_w04d2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: presentati_w04d2.pdf
 uid: 3b7c9888-8310-50a6-1eee-e17e59ad5bda

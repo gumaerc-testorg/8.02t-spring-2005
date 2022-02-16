@@ -6,8 +6,13 @@ description: 'This resource includes the following topics:
   instruments for charging, electric dipoles, electric field created by dipole, shockwave
   for dipole, dipole in uniform field, torque on dipole, continuous charge distributions,
   ring of charge, and disk:  two important limits.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/915fb527b640077a671aa90c19c40cf0_presentati_w01d2.pdf
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/915fb527b640077a671aa90c19c40cf0_presentati_w01d2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: presentati_w01d2.pdf
 uid: 915fb527-b640-077a-671a-a90c19c40cf0

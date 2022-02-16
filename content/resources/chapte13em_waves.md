@@ -8,8 +8,13 @@ description: 'This resource includes the following topics:
   reflection of electromagnetic waves at conducting surfaces, problem-solving strategy:
   traveling electromagnetic waves, solved problems, conceptual questions, and additional
   problems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/13e4e0069a9ffca5ae3f909083695c2b_chapte13em_waves.pdf
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/13e4e0069a9ffca5ae3f909083695c2b_chapte13em_waves.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chapte13em_waves.pdf
 uid: 13e4e006-9a9f-fca5-ae3f-909083695c2b

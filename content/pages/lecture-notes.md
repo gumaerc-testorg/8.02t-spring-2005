@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 ---
@@ -34,7 +37,7 @@ PRS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -133,7 +136,7 @@ Problem Solving Session 1: Line and Surface Integrals
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -212,7 +215,7 @@ Problem Solving Session 2: Electric Field of Continuous Charge Distributions
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -305,7 +308,7 @@ Chapter 4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -360,7 +363,7 @@ Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -425,7 +428,7 @@ Sample Exam
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -514,7 +517,7 @@ Chapter 9: Sections 9.1 - 9.2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -599,7 +602,7 @@ Chapter 9: Sections 9.3 - 9.4; 9.10.2, 9.11.6, 9.11.7 ([PDF - 1.9 MB]({{< baseur
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -686,7 +689,7 @@ Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -747,7 +750,7 @@ Chapter 11: Sections 11.1 - 11.4 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -826,7 +829,7 @@ Chapter 12 ([PDF]({{< baseurl >}}/resources/cha12ac_circuits))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -877,7 +880,7 @@ Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -938,7 +941,7 @@ Sample Exam
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1021,7 +1024,7 @@ Problem Solving Session 10: Interference
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}

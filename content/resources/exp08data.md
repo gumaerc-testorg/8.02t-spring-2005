@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a supplementary file for experiment 8.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/70ee0b4255248967e35e9b89444dcbe6_exp08data.xls
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/70ee0b4255248967e35e9b89444dcbe6_exp08data.xls
 file_type: application/msword
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: exp08data.xls
 uid: 70ee0b42-5524-8967-e35e-9b89444dcbe6

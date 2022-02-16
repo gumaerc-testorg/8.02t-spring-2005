@@ -7,8 +7,13 @@ description: 'This resource includes the following topics:
   elementary circuits, batteries in series, batteries in parallel, capacitors in parallel,
   equivalent capacitance, capacitors in series, dielectric in capacitor, dielectrics,
   Gauss?s law for dielectrics, and dielectric in a capacitor.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/2a792e5540bfba93b595e5ad2698aba9_presentati_w03d2.pdf
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/2a792e5540bfba93b595e5ad2698aba9_presentati_w03d2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: presentati_w03d2.pdf
 uid: 2a792e55-40bf-ba93-b595-e5ad2698aba9

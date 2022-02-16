@@ -6,8 +6,13 @@ description: 'This resource includes the following topics:
   simple harmonic motion (demonstration), electronic analog: LC circuits, prs questions:
   LC circuit, adding damping: RLC circuits, experiment 10: part II-RLC circuit, prs
   questions: 2 lab questions'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/dea24c7fadcc67ea21bea7ff6643b22d_presentati_w11d1.pdf
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/dea24c7fadcc67ea21bea7ff6643b22d_presentati_w11d1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: presentati_w11d1.pdf
 uid: dea24c7f-adcc-67ea-21be-a7ff6643b22d

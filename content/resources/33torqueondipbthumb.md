@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/5ea360fadc2f1dc742973f14ddf7a12c_33torqueondipbthumb.jpg
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/5ea360fadc2f1dc742973f14ddf7a12c_33torqueondipbthumb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Visualizations
+parent_type: CourseSection
 resourcetype: Image
 title: 33torqueondipbthumb.jpg
 uid: 5ea360fa-dc2f-1dc7-4297-3f14ddf7a12c

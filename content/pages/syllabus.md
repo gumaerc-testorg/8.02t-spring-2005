@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9a3dd9c5-db05-9e2c-d0ea-be8cc32d110b
 ---
@@ -172,7 +174,7 @@ PRS
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 BREAKPOINTS
 {{< thclose >}}
 
@@ -202,10 +204,10 @@ A
 \>= 95
 {{< tdclose >}}
 {{< tdopen >}}
-< 95 and >= 90
+\< 95 and >= 90
 {{< tdclose >}}
 {{< tdopen >}}
-< 90 and >= 85
+\< 90 and >= 85
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,13 +216,13 @@ A
 B
 {{< tdclose >}}
 {{< tdopen >}}
-< 85 and >= 80
+\< 85 and >= 80
 {{< tdclose >}}
 {{< tdopen >}}
-< 80 and >= 75
+\< 80 and >= 75
 {{< tdclose >}}
 {{< tdopen >}}
-< 75 and >= 70
+\< 75 and >= 70
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,13 +231,13 @@ B
 C
 {{< tdclose >}}
 {{< tdopen >}}
-< 70 and >= 67
+\< 70 and >= 67
 {{< tdclose >}}
 {{< tdopen >}}
-< 67 and >= 64
+\< 67 and >= 64
 {{< tdclose >}}
 {{< tdopen >}}
-< 64 and >= 60
+\< 64 and >= 60
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ D
  
 {{< tdclose >}}
 {{< tdopen >}}
-< 60 and >= 55
+\< 60 and >= 55
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -262,7 +264,7 @@ F
  
 {{< tdclose >}}
 {{< tdopen >}}
-< 55
+\< 55
 {{< tdclose >}}
 {{< tdopen >}}
  

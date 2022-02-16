@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a supplementary file for experiment 9.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/a4c635fe385fd9e7dbc950ac97cdecd0_exp09_sol.ds
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/a4c635fe385fd9e7dbc950ac97cdecd0_exp09_sol.ds
 file_type: application/octet-stream
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: exp09_sol.ds
 uid: a4c635fe-385f-d9e7-dbc9-50ac97cdecd0

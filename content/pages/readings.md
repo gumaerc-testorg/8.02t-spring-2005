@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a1134647-b0ff-86e4-f59c-c1f6b99164df
 ---
@@ -26,7 +29,7 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -95,7 +98,7 @@ Problem Solving Session 1: Line and Surface Integrals
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -146,7 +149,7 @@ Problem Solving Session 2: Electric Field of Continuous Charge Distributions
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -209,7 +212,7 @@ Problem Solving Session 3: Gauss' Law
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -246,7 +249,7 @@ Problem Solving Session 4: Capacitance
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -299,7 +302,7 @@ Sample Exam
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -364,7 +367,7 @@ Problem Solving Session 5: Magnetic Torque and Moments
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -425,7 +428,7 @@ Problem Solving Session 6: Ampere's Law
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -488,7 +491,7 @@ Problem Solving Session 7: Faraday's Law
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -537,7 +540,7 @@ Energy in Inductors
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -598,7 +601,7 @@ Problem Solving Session 8: Driven RLC Circuits
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -637,7 +640,7 @@ Problem Solving Session 9: Displacement Current, Poynting
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -686,7 +689,7 @@ Sample Exam
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -751,7 +754,7 @@ Problem Solving Session 10: Interference
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}

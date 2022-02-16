@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Visualizations
+parent_type: CourseSection
 parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 title: Magnetostatics
 uid: f516cf0a-386c-591c-b792-48706e91df13

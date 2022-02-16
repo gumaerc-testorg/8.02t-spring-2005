@@ -7,8 +7,13 @@ description: 'This resource includes the following topics:
   of double-slit diffraction patterns, diffraction grating, summary, appendix: computing
   the total electric field, solved problems, conceptual questions, and additional
   problems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/d29b4747c80d0b106628c1af86541ffa_ch14_inter_diffr.pdf
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/d29b4747c80d0b106628c1af86541ffa_ch14_inter_diffr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch14_inter_diffr.pdf
 uid: d29b4747-c80d-0b10-6628-c1af86541ffa

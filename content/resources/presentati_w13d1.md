@@ -5,8 +5,13 @@ description: 'This resource includes the following topics:
   traveling waves, traveling sine wave, standing waves, maxwell?s equations, properties
   of em waves, direction of propagation, wave equation, 1d wave equation for e, and
   electromagnetic radiation.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/c84db5fe50b576c7aedba1437704be05_presentati_w13d1.pdf
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/c84db5fe50b576c7aedba1437704be05_presentati_w13d1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: presentati_w13d1.pdf
 uid: c84db5fe-50b5-76c7-aedb-a1437704be05

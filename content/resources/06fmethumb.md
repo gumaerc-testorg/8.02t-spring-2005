@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02t-electricity-and-magnetism-spring-2005/d7fae34a730815599f618f087586c7bd_06FMEthumb.jpg
+file: /media/courses/8-02t-electricity-and-magnetism-spring-2005/d7fae34a730815599f618f087586c7bd_06FMEthumb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Visualizations
+parent_type: CourseSection
 resourcetype: Image
 title: 06FMEthumb.jpg
 uid: d7fae34a-7308-1559-9f61-8f087586c7bd
