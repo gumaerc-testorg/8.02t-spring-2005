@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8f8ae142-b013-b61f-6075-6a830d093354
 resourcetype: Document
 title: exp09.pdf
 uid: ee9139e3-4906-fc0f-b997-f49505f3f8c9

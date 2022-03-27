@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 02FREThumb.jpg
 uid: 398020bd-182e-88c7-a4f9-4b2039780992

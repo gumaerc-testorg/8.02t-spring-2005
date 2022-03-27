@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: chapter1fields.pdf
 uid: 85fb9106-dc3e-09b4-21f3-aa60d47ecaef

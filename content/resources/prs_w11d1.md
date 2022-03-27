@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: prs_w11d1.pdf
 uid: 549b02f4-9a9c-e84f-d859-5a4458471137

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 10divcurlThumb.jpg
 uid: e9ce2399-b7e3-349d-b562-dd892e14bb75

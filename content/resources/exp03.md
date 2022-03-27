@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8f8ae142-b013-b61f-6075-6a830d093354
 resourcetype: Other
 title: exp03.ds
 uid: 928220c4-e1a4-98bc-37b1-41d2295457e3

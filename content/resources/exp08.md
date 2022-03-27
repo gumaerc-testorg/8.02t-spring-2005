@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8f8ae142-b013-b61f-6075-6a830d093354
 resourcetype: Document
 title: exp08.pdf
 uid: 554bc42d-0e15-3a15-75e7-f3f4b3c8d3f2

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 13pithAttThumb.jpg
 uid: c3c82e20-a3fa-7053-b8ec-a311d2ca331a

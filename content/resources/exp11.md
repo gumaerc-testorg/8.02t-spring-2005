@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8f8ae142-b013-b61f-6075-6a830d093354
 resourcetype: Document
 title: exp11.pdf
 uid: a3658f3c-c381-71a9-8625-3fd389b618cb

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 06array04Thumb.jpg
 uid: 04e7c72c-365a-bfec-468d-f32a4e8bdb42

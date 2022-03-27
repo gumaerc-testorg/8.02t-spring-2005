@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: ch14_inter_diffr.pdf
 uid: d29b4747-c80d-0b10-6628-c1af86541ffa

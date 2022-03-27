@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 04moveChrgPosElecThumb.jpg
 uid: 8ed12382-a16c-82de-246f-9e0884cb216b

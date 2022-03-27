@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a1134647-b0ff-86e4-f59c-c1f6b99164df
 resourcetype: Document
 title: summary_w10d2.pdf
 uid: 64145d9d-3bb9-4fe6-b93b-0301fefb143b

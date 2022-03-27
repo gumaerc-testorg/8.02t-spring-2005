@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: presentati_w03d1.pdf
 uid: e57a18fe-3bcd-ed8e-0966-1fe938ec81c5

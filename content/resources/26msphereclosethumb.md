@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 26msphereclosethumb.jpg
 uid: 4f77e7c0-f61f-d08e-9e67-a50535ef3db4

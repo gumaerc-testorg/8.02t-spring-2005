@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8acb2d1-29ba-8d3e-665d-27e550ae2602
 resourcetype: Document
 title: solving01.pdf
 uid: 277e0b81-1f7c-2d87-4a42-18e4cc5fbf19
