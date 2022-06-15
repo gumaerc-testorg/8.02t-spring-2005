@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section lists the hour wise topics covered in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 1b021b6f-5c8a-65df-e10a-7fb02921f289
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section covers the material in the up-coming class session. Students
+  are urged to read the summary before coming to class.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: a1134647-b0ff-86e4-f59c-c1f6b99164df
+video_metadata:
+  youtube_id: null
 ---
 
 These summaries cover the material in the up-coming class session. Students are urged to read the summary before coming to class.
@@ -55,7 +59,7 @@ Electric Fields
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w01d1))
+({{% resource_link ebc7d5eb-7b07-bab5-ffd3-5ee8ccddc295 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +85,7 @@ Continuous Charge Distributions
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w01d2))
+({{% resource_link 9568d1ff-1231-18a1-3ce9-9b6417cbd3ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +97,7 @@ Continuous Charge Distributions
 Problem Solving Session 1: Line and Surface Integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w01d3))
+({{% resource_link 218cf177-eb47-c563-0e1e-159a1dd335fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Electric Potential
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w02d1))
+({{% resource_link f12886a9-302c-f53e-7a87-883ed9dc13d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +136,7 @@ Electric Potential
 _Hour 1_ Gauss' Law _Hour 2_ Gauss' Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w02d2))
+({{% resource_link 6f454a68-3dee-0091-81e5-2e08803c9224 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +148,7 @@ _Hour 1_ Gauss' Law _Hour 2_ Gauss' Law
 Problem Solving Session 2: Electric Field of Continuous Charge Distributions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w02d3))
+({{% resource_link 66e1370e-d4ef-4364-b652-a6155f392d08 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +175,7 @@ Capacitors
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w03d1))
+({{% resource_link 23b57f09-96c2-51f9-42b1-edefcc4cef28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +199,7 @@ Capacitors and Dielectrics
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w03d2))
+({{% resource_link bcbec745-35e1-ea4d-d249-c0d623ba5315 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +211,7 @@ Capacitors and Dielectrics
 Problem Solving Session 3: Gauss' Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w03d3))
+({{% resource_link fb3151f4-36a0-cab7-6e79-38e9a32245a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +236,7 @@ Kirchhoff's Loop Rules
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w04d2))
+({{% resource_link 007bcfd5-33e4-25d5-7686-36008b15c2d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +248,7 @@ Kirchhoff's Loop Rules
 Problem Solving Session 4: Capacitance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w04d3))
+({{% resource_link d1d15ef1-04c2-4365-4cdc-ce3fcbe250c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +277,7 @@ Experiment 4: Part II: RC Circuits
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w05d1))
+({{% resource_link c661df80-bbcb-989c-15b5-16efa785e938 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +301,7 @@ Sample Exam
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w05d2))
+({{% resource_link 5e944444-48ba-eb01-0ec8-511181407e8c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +330,7 @@ Exam Review
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w06d1))
+({{% resource_link 373b1dac-db62-ea81-4ce5-69ff8b7ad60b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +354,7 @@ Creating B Fields: Biot-Savart
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w06d2))
+({{% resource_link db26db67-8646-f017-1103-3955354b1ac1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -362,7 +366,7 @@ Creating B Fields: Biot-Savart
 Problem Solving Session 5: Magnetic Torque and Moments
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w06d3))
+({{% resource_link 77d7771a-06b2-97f7-7cd1-f24a7c3cf109 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -387,7 +391,7 @@ Experiment 7: Dipoles in B Fields
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w07d1))
+({{% resource_link a2546061-dfac-6f85-fe6b-522ddfbc6a5b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -411,7 +415,7 @@ Ampere's Law
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w07d2))
+({{% resource_link 1264ee38-b53a-9ead-5845-1304f5663059 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -423,7 +427,7 @@ Ampere's Law
 Problem Solving Session 6: Ampere's Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w07d3))
+({{% resource_link e9f5a35d-f6bb-5840-129e-2cb867187bc3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -448,7 +452,7 @@ Faraday's Law: Applications
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w09d1))
+({{% resource_link 3fb6943e-b352-ea9c-58cd-7f06aaf18c18 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -474,7 +478,7 @@ Magnetic Materials
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w09d2))
+({{% resource_link 7cfe8468-1168-6b14-2f9a-719f510917bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -486,7 +490,7 @@ Magnetic Materials
 Problem Solving Session 7: Faraday's Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w09d3))
+({{% resource_link 64751f72-d512-0fbc-c659-d3db5e9573bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -535,7 +539,7 @@ Energy in Inductors
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w10d2))
+({{% resource_link 64145d9d-3bb9-4fe6-b93b-0301fefb143b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -562,7 +566,7 @@ Experiment 10: Part II: LRC Circuit
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w11d1))
+({{% resource_link 5f1f11a9-f01d-1c69-1c6c-2a452fbfb9d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -584,7 +588,7 @@ Experiment 11: Driven RLC Circuit
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w11d2))
+({{% resource_link 278a528e-99af-e211-30ae-8d7bd0c6f568 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -596,7 +600,7 @@ Experiment 11: Driven RLC Circuit
 Problem Solving Session 8: Driven RLC Circuits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w11d3))
+({{% resource_link eeef6e09-b844-60f1-db24-0f5d9d13c6d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -623,7 +627,7 @@ Electromagnetic Waves
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w12d2))
+({{% resource_link 6eac25b2-e8bb-97bd-840b-a9b49f759b10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -635,7 +639,7 @@ Electromagnetic Waves
 Problem Solving Session 9: Displacement Current, Poynting
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w12d3))
+({{% resource_link dbefb0a1-55c1-7b85-f4b1-e9f88e8a9d29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -660,7 +664,7 @@ Electromagnetic (EM) Waves
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w13d1))
+({{% resource_link 7a227c88-e24a-6898-89df-e22a5e02af6f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -715,7 +719,7 @@ Review Exam 3 Results
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w14d1))
+({{% resource_link 659b5f4c-86a7-000b-d760-c2fb47447ff0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -737,7 +741,7 @@ Experiment 13: Interference
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/summary_w14d2))
+({{% resource_link b8430a4f-dec7-e119-87b6-25a8e55e4c41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

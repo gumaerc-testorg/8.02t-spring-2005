@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section gives course overview, prerequisites and format in which
+  it is taught. Along with collaborative work, course notes, course reader, experiment
+  write-ups, and optional textbook.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 9a3dd9c5-db05-9e2c-d0ea-be8cc32d110b
+video_metadata:
+  youtube_id: null
 ---
 
 Course Overview
