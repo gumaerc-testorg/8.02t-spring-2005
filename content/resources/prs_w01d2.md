@@ -6,6 +6,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/3cbf58c60016d128c4a9d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource explains: what electric field lines in the space surrounding a charge distribution show, e-field of two equal charges and e-field of a dipole.
-

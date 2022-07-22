@@ -11,6 +11,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/a3658f3cc38171a986253
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 The objective of this file is to measure the resonance frequency and the quality factor of a driven RLC circuit by
 creating a resonance (frequency response) curve, to see the phase relationships between driving voltage and driven current in such a circuit at, below, and above the resonance frequency, and to use DataStudio display capabilities to carry out these objectives.
-

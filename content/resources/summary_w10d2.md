@@ -7,6 +7,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/64145d9d3bb94fe6b93b0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource talks about Faraday?s Law, and move from mutual inductance, in which the changing flux from one circuit induces an EMF in another, to self inductance, in which the changing flux from a circuit induces an EMF in itself.
-

@@ -8,6 +8,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/89558a51b298b7311c716
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 The objective of this resource is to explore the types of visualizations available through the TEAL website, to become familiar why they are there, which is to help you with geometry, mathematics, and physics, and to explore how electrostatic forces hold matter together.
-

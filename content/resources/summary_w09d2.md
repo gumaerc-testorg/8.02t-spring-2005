@@ -7,6 +7,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/7cfe846811686b142f9a7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses induction (Faraday?s Law), another application ? eddy current braking ? and then continuing on to define mutual inductance and transformers.
-

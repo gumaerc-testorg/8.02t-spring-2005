@@ -7,6 +7,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/1840eda396cfce6f0854c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes objective type problems on masses in potentials, positive charge, negative charge, potential and energy, two point charges and potential landscape.
-

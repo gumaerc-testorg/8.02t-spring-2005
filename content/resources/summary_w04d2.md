@@ -6,6 +6,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/007bcfd533e425d576863
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file defines current, current density, and resistance and discuss how to analyze simple DC (constant current) circuits using Kirchhoff?s Circuit Rules.
-

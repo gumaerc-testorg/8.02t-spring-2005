@@ -6,6 +6,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/7a227c88e24a689889dfe
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file talks about deriving the facts about EM waves and the wave equation from the full set of Maxwell?s Equations.
-

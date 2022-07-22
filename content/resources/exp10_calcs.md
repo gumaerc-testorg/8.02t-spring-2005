@@ -5,6 +5,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/6b36d70da66d52172f41c
 file_type: application/msword
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supplementary file for experiment 10.
-

@@ -9,6 +9,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/c84db5fe50b576c7aedba
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 traveling waves, traveling sine wave, standing waves, maxwell?s equations, properties of em waves, direction of propagation, wave equation, 1d wave equation for e, and electromagnetic radiation.
-

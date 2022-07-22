@@ -6,6 +6,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/fb3151f436a0cab76e793
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file talks about Gauss?s Law to calculate the electric field from highly symmetric charge distributions.
-

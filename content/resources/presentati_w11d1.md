@@ -10,6 +10,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/dea24c7fadcc67ea21bea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 self inductance, experiment 10: part I-measure L, R, LC circuits mass on a spring: simple harmonic motion (demonstration), electronic analog: LC circuits, prs questions: LC circuit, adding damping: RLC circuits, experiment 10: part II-RLC circuit, prs questions: 2 lab questions
-

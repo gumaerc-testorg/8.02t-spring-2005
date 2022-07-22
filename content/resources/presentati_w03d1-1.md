@@ -12,6 +12,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/e57a18fe3bcded8e09661
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 Gauss?s law, conductors, equipotentials, equipotential curves, direction of electric field e, properties of equipotentials, conductors in equilibrium, expt. 2: electrostatic force, capacitors: store electric energy, parallel plate capacitor, calculating e using Gauss's law, parallel plate capacitor, spherical capacitor, capacitance of earth, energy to charge capacitor, energy stored in capacitor, and dissectible capacitor.
-

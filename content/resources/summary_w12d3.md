@@ -6,6 +6,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/dbefb0a155c17b85f4b1e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file deals with practicing the ideas of displacement current and the Poynting vector.
-

@@ -12,6 +12,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/8d51771e99de7d8243fdd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes the following topics: undriven RLC circuits, mass on a spring: simple harmonic motion (a second look), demonstration: driven mass on a spring off resonance, demonstration: driven mass on a spring, electronic analog: RLC circuits, demonstration: RLC with light bulb, start at beginning: AC circuits, prs question: leading or lagging, demonstration: phasors, prs questions: phase, prs question: who dominates, RLC circuits: resonances, demonstration: RLC with light bulb, prs questions: resonance, experiment 11: driven RLC circuit; how to.
-

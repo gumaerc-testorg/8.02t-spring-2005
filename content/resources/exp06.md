@@ -7,6 +7,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/d98f25246add565b23960
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 The objective of this resource is to predict and verify the nature of the magnetic force acting on a current-carrying wire when the wire is placed in a magnetic field.
-

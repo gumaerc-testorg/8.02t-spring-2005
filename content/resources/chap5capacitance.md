@@ -10,6 +10,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/99407b81a217613e8ddec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 introduction, calculation of capacitance, capacitors in electric circuits, storing energy in a capacitor, dielectrics, creating electric fields, summary, appendix: electric fields hold atoms together, problem-solving strategy: calculating capacitance, solved problems, conceptual questions, and additional problems.
-

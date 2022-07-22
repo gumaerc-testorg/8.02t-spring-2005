@@ -8,6 +8,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/fc1cce882410929062d12
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes the linear charge density, area charge density, and volume charge density, calculate the electric field from a line of charge along two different directions, and limiting behavior of the two expressions when the length of the line goes to zero.
-

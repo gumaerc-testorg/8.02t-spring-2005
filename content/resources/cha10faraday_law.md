@@ -10,6 +10,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/724a162b8c03487f5faae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 Faraday?s law of induction, motional emf, induced electric field, generators, eddy currents, summary, appendix: induced emf and reference frames, problem-solving tips: Faraday?s law and Lenz?s law, solved problems, conceptual questions, and additional problems.
-

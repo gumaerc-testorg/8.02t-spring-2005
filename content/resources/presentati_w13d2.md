@@ -7,6 +7,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/077255d44a488c52e4154
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes exam 3 topics, general exam suggestions, prs questions: faraday?s & lenz?s law; inductors & LR circuits; undriven RLC circuits; driven RLC circuits; displacement/poynting; sample exam problems and solutions.
-

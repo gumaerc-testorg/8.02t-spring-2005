@@ -5,6 +5,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/af775a2e3c24e65ce477a
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

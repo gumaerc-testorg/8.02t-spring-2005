@@ -5,6 +5,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/ff36cd3700da0cd025d26
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -8,6 +8,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/ee9139e34906fc0fb997f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 The objective of this resource is to become familiar with the concepts of changing magnetic flux and induced current associated with Faraday?s Law of Induction, and to see how and why the direction of the magnetic force on a conductor carrying an induced current is consistent with Lenz?s Law.
-

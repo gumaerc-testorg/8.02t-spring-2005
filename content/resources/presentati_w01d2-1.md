@@ -10,6 +10,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/915fb527b640077a671aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 gravitational and electric fields, electric field lines, in-class problem, charging, instruments for charging, electric dipoles, electric field created by dipole, shockwave for dipole, dipole in uniform field, torque on dipole, continuous charge distributions, ring of charge, and disk:  two important limits.
-

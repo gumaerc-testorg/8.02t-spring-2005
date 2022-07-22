@@ -10,6 +10,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/4a9e147aa46466d7480f0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 displacement current, maxwell-ampere?s law, prs questions: capacitor, maxwell?s equations, electromagnetic radiation, traveling sine wave, prs question: wave, properties of em waves, direction of propagation, energy in em waves, poynting vector and intensity, energy flow:  resistor, and energy flow: inductor.
-

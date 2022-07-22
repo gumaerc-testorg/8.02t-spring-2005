@@ -8,6 +8,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/adcd43f7a3fc078c9ba30
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 The objective of this resource is to observe the polarization and angular dependence of radiation from a microwave generator and to measure the wavelength of the microwave radiation by analyzing an interference pattern similar to a standing wave.
-

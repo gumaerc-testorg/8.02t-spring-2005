@@ -10,6 +10,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/4c84733e3977ba42a930a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 Biot-Savart law, force between two parallel wires, Ampere?s law, solenoid, magnetic field of a dipole, magnetic materials, summary, appendix 1: magnetic field off the symmetry axis of a current loop, appendix 2: helmholtz coils, problem-solving strategies, solved problems, conceptual questions, and additional problems.
-

@@ -8,6 +8,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/41aab7fca4a408b4fccdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes the following topics: faraday?s law mutual inductance, demonstration: remote speaker, self inductance, prs question: closing a switch; LR circuit & problem, demos: breaking circuits with inductors, energy in inductor, back to back EMF, prs question: stopping a motor.
-

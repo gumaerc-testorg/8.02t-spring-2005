@@ -11,6 +11,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/8e5a4d5ac288f03aa480a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 electromagnetic radiation, generating plane electromagnetic radiation, generating plane wave applet, generating electric dipole electromagnetic waves, quarter-wavelength antenna, an lc oscillator, spark gap transmitter, prs question: spark gap antenna, polarization, demonstration: microwave polarization, experiment 12: microwaves, and exam 3 results.
-

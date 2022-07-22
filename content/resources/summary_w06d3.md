@@ -8,6 +8,7 @@ file: /courses/8-02t-electricity-and-magnetism-spring-2005/77d7771a06b297f77cd1f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 This file talks about how to calculate the force and torque on a rectangular loop of wire and definition of the magnetic dipole
 moment ? and then do a calculation using that moment.
-
