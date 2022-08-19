@@ -23,7 +23,3 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 60
-- identifier: 3e9d053a-11ee-effa-00de-c3b42819928c
-  name: Visualizations
-  url: /pages/visualizations/
-  weight: 70
