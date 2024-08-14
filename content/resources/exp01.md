@@ -5,6 +5,7 @@ description: The objective of this resource is to explore the types of visualiza
   is to help you with geometry, mathematics, and physics, and to explore how electrostatic
   forces hold matter together.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/89558a51b298b7311c716b839e96f2b8_exp01.pdf
+file_size: 780917
 file_type: application/pdf
 learning_resource_types:
 - Labs

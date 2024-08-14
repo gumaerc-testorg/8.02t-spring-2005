@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   of em waves, direction of propagation, energy in em waves, poynting vector and intensity,
   energy flow:  resistor, and energy flow: inductor.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/4a9e147aa46466d7480f0ba268e94360_presentati_w12d2.pdf
+file_size: 957199
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

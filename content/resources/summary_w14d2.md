@@ -3,6 +3,7 @@ content_type: resource
 description: Investigation on the subject of interference, both theoretically and
   experimentally.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/b8430a4fdec7e11987b625a8e55e4c41_summary_w14d2.pdf
+file_size: 223548
 file_type: application/pdf
 learning_resource_types:
 - Readings

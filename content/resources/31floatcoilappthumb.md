@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/9c3a3e3e303542eeb95f8e15faeba83b_31floatcoilappthumb.jpg
+file_size: 8549
 file_type: image/jpeg
 image_metadata:
   caption: ''

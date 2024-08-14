@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   dipole moment, galvanometer, magnetic dipole moment, torque on dipole in uniform
   field, and force on magnetic dipole.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/c1e0f2c012f4d4cb0507d99a332c301a_presentati_w07d1.pdf
+file_size: 704474
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

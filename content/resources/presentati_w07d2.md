@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   the biot-savart law, applying Ampere?s law, magnetic field of solenoid, and maxwell?s
   equations.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/896ae3b218d74a6072c69a377f4bf2ac_presentati_w07d2.pdf
+file_size: 1674894
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

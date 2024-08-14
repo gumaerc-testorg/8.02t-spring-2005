@@ -5,6 +5,7 @@ description: This resource includes the linear charge density, area charge densi
   two different directions, and limiting behavior of the two expressions when the
   length of the line goes to zero.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/fc1cce882410929062d125ef8b94904e_solving02.pdf
+file_size: 210816
 file_type: application/pdf
 learning_resource_types:
 - Assignments

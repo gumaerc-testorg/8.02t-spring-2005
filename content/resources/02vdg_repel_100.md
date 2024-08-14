@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/51da709783599c5dd3593ade0b61e814_02vdg_Repel_100.jpg
+file_size: 11433
 file_type: image/jpeg
 image_metadata:
   caption: ''

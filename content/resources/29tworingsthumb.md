@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/6e1d83e0ce86fea88861f31d7f8d786a_29tworingsthumb.jpg
+file_size: 7290
 file_type: image/jpeg
 image_metadata:
   caption: ''

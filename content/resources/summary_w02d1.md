@@ -3,6 +3,7 @@ content_type: resource
 description: This file talks about the TEAL visualizations and how to use them (with
   an experiment), and also talks about electric potential.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/f12886a9302cf53e7a87883ed9dc13d5_summary_w02d1.pdf
+file_size: 169473
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   wire, magnetic force, parallel and anti-parallel currents, biot-savart, field generated
   by wire, coil of radius r, and example of B pressure/tension.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/649d27a9dda582b4d1c66f39ea6ddf6d_presentati_w06d2.pdf
+file_size: 1119119
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
