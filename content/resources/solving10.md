@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes objectives, introduction and problems on intensity
   of double-slit interference.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/f07386a26e89a48fea9d742901f51eda_solving10.pdf
+file_size: 82162
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   charges feel magnetic force, cross product, right hand rule, velocity selector,
   Hall effect, and exam review.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/e18d38e0b1eb8d1d98b6cd72f212cbf2_presentati_w06d1.pdf
+file_size: 1028006
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

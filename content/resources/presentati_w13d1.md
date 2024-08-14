@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   of em waves, direction of propagation, wave equation, 1d wave equation for e, and
   electromagnetic radiation.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/c84db5fe50b576c7aedba1437704be05_presentati_w13d1.pdf
+file_size: 732663
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource discusses induction (Faraday?s Law), another applicat
   ? eddy current braking ? and then continuing on to define mutual inductance and
   transformers.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/7cfe846811686b142f9a719f510917bc_summary_w09d2.pdf
+file_size: 160515
 file_type: application/pdf
 learning_resource_types:
 - Readings

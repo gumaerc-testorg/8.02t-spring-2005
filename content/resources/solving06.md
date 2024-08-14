@@ -4,6 +4,7 @@ description: This resource includes objectives, problem solving strategy for amp
   law and problems on magnetic field of a cylindrical shell and magnetic field of
   a slab of current.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/442cb6e2b7c912fa0c7b12239d078438_solving06.pdf
+file_size: 303996
 file_type: application/pdf
 learning_resource_types:
 - Assignments

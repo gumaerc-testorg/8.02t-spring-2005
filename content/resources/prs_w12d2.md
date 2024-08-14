@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes problems related to circular capacitor.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/04fd10e55648afc6f11cb791a0365ac4_prs_w12d2.pdf
+file_size: 729509
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

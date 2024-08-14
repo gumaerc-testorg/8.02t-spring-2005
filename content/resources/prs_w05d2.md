@@ -4,6 +4,7 @@ description: This resource explains the weird fields contest, electric field lin
   in the space surrounding a charge distribution, and direction of acceleration of
   charges.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/b6fe35a81f1772227b34fcc4c281b154_prs_w05d2.pdf
+file_size: 874862
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
