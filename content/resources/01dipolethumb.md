@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/630fca6089f74e26117cbd90902b92d8_01DipoleThumb.jpg
+file_size: 16045
 file_type: image/jpeg
 image_metadata:
   caption: ''

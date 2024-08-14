@@ -2,6 +2,7 @@
 content_type: resource
 description: This resouurce includes problems related to circuit.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/549b02f49a9ce84fd8595a4458471137_prs_w11d1.pdf
+file_size: 248834
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

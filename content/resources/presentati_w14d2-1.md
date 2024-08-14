@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/e0588e98ed9dbd9fb6ee1ce4aa5a2c1d_presentati_w14d2.ppt
+file_size: 2235904
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

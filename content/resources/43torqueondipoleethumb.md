@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/3d27897a02385b2ff8ac41bf6d8a098a_43torqueondipoleethumb.jpg
+file_size: 11567
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file focuses on the driven RLC circuit.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/eeef6e09b84460f1db240f5d9d13c6d4_summary_w11d3.pdf
+file_size: 175801
 file_type: application/pdf
 learning_resource_types:
 - Readings

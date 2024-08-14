@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   summary, problem-solving tips, solved problems, conceptual questions, and additional
   problems.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/90510e513af27a2dde30b890a61bbcd1_ch8magneti_field.pdf
+file_size: 774541
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

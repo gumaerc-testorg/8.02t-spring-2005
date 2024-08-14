@@ -9,6 +9,7 @@ description: 'This resource includes the following topics: microwaves (mw), inte
   diffraction, intensity distribution, prs question: two slits with width, babinet?s
   principle, experiment 13.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/c33f6ad41b1ee66a506860b1c54b23a5_presentati_w14d2.pdf
+file_size: 1233237
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/eecc7fc5dea043415a06276442368466_11fallingcoilthumb.jpg
+file_size: 9495
 file_type: image/jpeg
 image_metadata:
   caption: ''

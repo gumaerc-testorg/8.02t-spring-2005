@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/36787ac4f2c66740010597885b1ad625_09planewaveappthumb.jpg
+file_size: 10903
 file_type: image/jpeg
 image_metadata:
   caption: ''

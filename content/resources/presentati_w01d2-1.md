@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   for dipole, dipole in uniform field, torque on dipole, continuous charge distributions,
   ring of charge, and disk:  two important limits.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/915fb527b640077a671aa90c19c40cf0_presentati_w01d2.pdf
+file_size: 702275
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

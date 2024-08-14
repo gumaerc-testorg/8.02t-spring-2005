@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains physics experience, and the need of maths background
   for physics.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/7cf6e3c19504b037ca14daef41290f01_prs_w01d1.pdf
+file_size: 502420
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

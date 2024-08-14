@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes objectives, problems on the displacement current
   and the poynting vector.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/585f7ff28b28da1ed9da3094c0af1d8d_solving09.pdf
+file_size: 240831
 file_type: application/pdf
 learning_resource_types:
 - Assignments

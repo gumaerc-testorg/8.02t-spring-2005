@@ -2,6 +2,7 @@
 content_type: resource
 description: This file talks about conductors and capacitors.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/23b57f0996c251f942b1edefcc4cef28_summary_w03d1.pdf
+file_size: 151888
 file_type: application/pdf
 learning_resource_types:
 - Readings

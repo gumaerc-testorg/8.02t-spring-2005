@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/461373c7d7785092fea276e100661783_15inductancethumb.jpg
+file_size: 8396
 file_type: image/jpeg
 image_metadata:
   caption: ''

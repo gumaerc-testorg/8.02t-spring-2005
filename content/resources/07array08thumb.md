@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/bbaf607d2590b5dcab7c390605e27524_07array08Thumb.jpg
+file_size: 18258
 file_type: image/jpeg
 image_metadata:
   caption: ''

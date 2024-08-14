@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supplementary file for experiment 4.
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/141ae25a4a280701493375efcdc8cb26_exp04b.ds
+file_size: 7423
 file_type: application/octet-stream
 learning_resource_types:
 - Labs

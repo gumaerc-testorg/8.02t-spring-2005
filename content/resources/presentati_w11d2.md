@@ -9,6 +9,7 @@ description: 'This resource includes the following topics: undriven RLC circuits
   with light bulb, prs questions: resonance, experiment 11: driven RLC circuit; how
   to.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/8d51771e99de7d8243fddc963ecc0511_presentati_w11d2.pdf
+file_size: 867807
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

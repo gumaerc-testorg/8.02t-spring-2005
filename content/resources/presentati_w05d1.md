@@ -5,6 +5,7 @@ description: 'This resource includes the following topics: resistors & ohm?s law
   charging a capacitor, demonstrations: RC time constants, experiment 4-part II: RC
   circuits, prs question: multiloop circuit with capacitor in one loop.'
 file: /courses/8-02t-electricity-and-magnetism-spring-2005/9965e4e342f728436d23e0e191a58e2a_presentati_w05d1.pdf
+file_size: 335490
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
