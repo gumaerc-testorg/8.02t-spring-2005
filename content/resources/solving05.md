@@ -4,7 +4,7 @@ description: This resource includes objectives, problems on magnetic force on a 
   wire in an external magnetic field, force on a rectangular current loop in a uniform
   magnetic field, torque on a rectangular current loop in a uniform magnetic field
   and magnetic dipole moment.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/7cd89ae2894fa2d45fe629988081a809_solving05.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/7cd89ae2894fa2d45fe629988081a809_solving05.pdf
 file_size: 265594
 file_type: application/pdf
 learning_resource_types:

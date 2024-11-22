@@ -8,7 +8,7 @@ description: 'This resource includes the following topics:
   e using Gauss''s law, parallel plate capacitor, spherical capacitor, capacitance
   of earth, energy to charge capacitor, energy stored in capacitor, and dissectible
   capacitor.'
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/e57a18fe3bcded8e09661fe938ec81c5_presentati_w03d1.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/e57a18fe3bcded8e09661fe938ec81c5_presentati_w03d1.pdf
 file_size: 1003307
 file_type: application/pdf
 learning_resource_types:
