@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes problems related to coherent, monochromatic plane
   waves and two slit interference.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/6f50e2162a748f7b45b2f1d898c0c76c_prs_w14d2.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/6f50e2162a748f7b45b2f1d898c0c76c_prs_w14d2.pdf
 file_size: 938019
 file_type: application/pdf
 learning_resource_types:

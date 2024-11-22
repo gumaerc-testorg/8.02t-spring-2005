@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes various predictions on experiment 6, bent wire,
   curved wire and two particles.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/9c8c2814a9f5e114c0ea76ea22ae5057_prs_w06d2.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/9c8c2814a9f5e114c0ea76ea22ae5057_prs_w06d2.pdf
 file_size: 412736
 file_type: application/pdf
 learning_resource_types:

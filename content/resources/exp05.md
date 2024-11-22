@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementary file for experiment 5.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/5f021462aadf193bac6a1d92dbc78170_exp05.ds
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/5f021462aadf193bac6a1d92dbc78170_exp05.ds
 file_size: 8581
 file_type: application/octet-stream
 learning_resource_types:

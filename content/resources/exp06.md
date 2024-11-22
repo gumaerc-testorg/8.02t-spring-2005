@@ -3,7 +3,7 @@ content_type: resource
 description: The objective of this resource is to predict and verify the nature of
   the magnetic force acting on a current-carrying wire when the wire is placed in
   a magnetic field.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/d98f25246add565b239604b5d238d9fa_exp06.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/d98f25246add565b239604b5d238d9fa_exp06.pdf
 file_size: 339214
 file_type: application/pdf
 learning_resource_types:
