@@ -4,7 +4,7 @@ description: 'This resource includes the following topics: faraday?s law mutual 
   demonstration: remote speaker, self inductance, prs question: closing a switch;
   LR circuit & problem, demos: breaking circuits with inductors, energy in inductor,
   back to back EMF, prs question: stopping a motor.'
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/41aab7fca4a408b4fccdf52299340eb6_presentati_w10d2.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/41aab7fca4a408b4fccdf52299340eb6_presentati_w10d2.pdf
 file_size: 574930
 file_type: application/pdf
 learning_resource_types:

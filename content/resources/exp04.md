@@ -5,7 +5,7 @@ description: The objective of this resource is to learn how to display and inter
   and to determine the resistance of a resistor, and to measure the time constants
   associated with a discharging and charging RC (resistive-capacitive, or resistor-capacitor)
   circuit.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/22e5527e4b64604b73e29a730f530c03_exp04.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/22e5527e4b64604b73e29a730f530c03_exp04.pdf
 file_size: 844257
 file_type: application/pdf
 learning_resource_types:

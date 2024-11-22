@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes RC circuits.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/2aa16359b5c77376d08f3301645fefa1_prs_w05d1.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/2aa16359b5c77376d08f3301645fefa1_prs_w05d1.pdf
 file_size: 173839
 file_type: application/pdf
 learning_resource_types:

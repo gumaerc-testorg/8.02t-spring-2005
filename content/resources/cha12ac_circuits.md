@@ -5,7 +5,7 @@ description: 'This resource includes the following topics:
   AC Sources, Simple AC circuits, The RLC Series Circuit, Power in an AC circuit,
   Transformer, Parallel RLC Circuit, Summary, Problem-Solving Tips, Solved Problems,
   Conceptual Questions, and Additional Problems.'
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/77f396b6d9907db677e2b94da90613be_cha12ac_circuits.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/77f396b6d9907db677e2b94da90613be_cha12ac_circuits.pdf
 file_size: 705469
 file_type: application/pdf
 learning_resource_types:
