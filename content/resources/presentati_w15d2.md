@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes final exam topics, test format, maxwell?s equations,
   EM field details?, circuits, sample exam problems and solutions.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/d21c31f433dcfe5e1f5f237d889042b0_presentati_w15d2.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/d21c31f433dcfe5e1f5f237d889042b0_presentati_w15d2.pdf
 file_size: 754139
 file_type: application/pdf
 learning_resource_types:

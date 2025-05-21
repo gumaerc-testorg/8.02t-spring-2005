@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource investigates a new type of circuit ? one which consists
   of both capacitors and inductors.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/5f1f11a9f01d1c691c6c2a452fbfb9d3_summary_w11d1.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/5f1f11a9f01d1c691c6c2a452fbfb9d3_summary_w11d1.pdf
 file_size: 163594
 file_type: application/pdf
 learning_resource_types:

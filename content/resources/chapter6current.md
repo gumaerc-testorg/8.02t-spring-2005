@@ -4,7 +4,7 @@ description: 'This resource includes the following topics:
 
   electric current, Ohm?s law, electrical energy and power, summary, solved problems,
   conceptual questions, and additional problems.'
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/6b2cf7ec2d597d7459930a7e6f700bea_chapter6current.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/6b2cf7ec2d597d7459930a7e6f700bea_chapter6current.pdf
 file_size: 380873
 file_type: application/pdf
 learning_resource_types:

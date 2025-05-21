@@ -4,7 +4,7 @@ description: 'This resource deals with topic introduction including lorenz force
   currents, field from a single moving charge, field from a current:  biot-savart
   law, right hand rules, important equations and experiment for magnetic force on
   current-carrying wires.'
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/db26db678646f01711033955354b1ac1_summary_w06d2.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/db26db678646f01711033955354b1ac1_summary_w06d2.pdf
 file_size: 277566
 file_type: application/pdf
 learning_resource_types:

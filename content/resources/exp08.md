@@ -2,7 +2,7 @@
 content_type: resource
 description: The objective of this resource is to investigate the magnetic force between
   two current carrying wires, and to measure the permeability constant ?0.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/554bc42d0e153a1575e7f3f4b3c8d3f2_exp08.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/554bc42d0e153a1575e7f3f4b3c8d3f2_exp08.pdf
 file_size: 421469
 file_type: application/pdf
 learning_resource_types:

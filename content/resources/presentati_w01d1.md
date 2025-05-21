@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/d99750a9d114efa0578f8aa418b8a574_presentati_w01d1.ppt
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/d99750a9d114efa0578f8aa418b8a574_presentati_w01d1.ppt
 file_size: 1452544
 file_type: application/msword
 learning_resource_types:

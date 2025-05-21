@@ -2,7 +2,7 @@
 content_type: resource
 description: This resoource includes problems related to resistance and driving a
   motor.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/596609ae4c117ce557ed9516cd423a1e_prs_w10d2.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/596609ae4c117ce557ed9516cd423a1e_prs_w10d2.pdf
 file_size: 339103
 file_type: application/pdf
 learning_resource_types:
