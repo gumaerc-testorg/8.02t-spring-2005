@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes hollow conductors, capacitor circuit and dielectric
   in a capacitor.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/628748805bcf65a1d934597ee6b3a6ce_prs_w03d2.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/628748805bcf65a1d934597ee6b3a6ce_prs_w03d2.pdf
 file_size: 145207
 file_type: application/pdf
 learning_resource_types:

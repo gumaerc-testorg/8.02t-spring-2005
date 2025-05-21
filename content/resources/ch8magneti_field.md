@@ -6,7 +6,7 @@ description: 'This resource includes the following topics:
   wire, torque on a current loop, charged particles in a uniform magnetic field, applications,
   summary, problem-solving tips, solved problems, conceptual questions, and additional
   problems.'
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/90510e513af27a2dde30b890a61bbcd1_ch8magneti_field.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/90510e513af27a2dde30b890a61bbcd1_ch8magneti_field.pdf
 file_size: 774541
 file_type: application/pdf
 learning_resource_types:

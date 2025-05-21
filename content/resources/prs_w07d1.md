@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes parallel wires and dipole in field.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/70e88a5e47f3eab8f6411d2376e13e27_prs_w07d1.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/70e88a5e47f3eab8f6411d2376e13e27_prs_w07d1.pdf
 file_size: 678925
 file_type: application/pdf
 learning_resource_types:

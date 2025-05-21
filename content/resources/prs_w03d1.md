@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes walking down a mountain and changing c dimensions.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/61ec5fe99ae5ea5b384247fe47aaa16e_prs_w03d1.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/61ec5fe99ae5ea5b384247fe47aaa16e_prs_w03d1.pdf
 file_size: 167675
 file_type: application/pdf
 learning_resource_types:

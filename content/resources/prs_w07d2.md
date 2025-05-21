@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes some questions and ampere's law.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/999529641971587c1cf3c53edfae562e_prs_w07d2.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/999529641971587c1cf3c53edfae562e_prs_w07d2.pdf
 file_size: 649211
 file_type: application/pdf
 learning_resource_types:

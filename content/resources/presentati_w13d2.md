@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes exam 3 topics, general exam suggestions, prs
   questions: faraday?s & lenz?s law; inductors & LR circuits; undriven RLC circuits;
   driven RLC circuits; displacement/poynting; sample exam problems and solutions.'
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/077255d44a488c52e4154d4b6aa681cb_presentati_w13d2.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/077255d44a488c52e4154d4b6aa681cb_presentati_w13d2.pdf
 file_size: 911991
 file_type: application/pdf
 learning_resource_types:

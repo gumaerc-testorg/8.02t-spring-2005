@@ -5,7 +5,7 @@ description: This resource includes objectives, problem solving strategies and p
   capacitance, stored electrostatic energy and charging the capacitor. In addition,
   there is homework on capacitors in series and parallel, electrostatic energy, capacitors
   and dielectrics and energy stored in capacitors.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/15587974c46d70920b6820c85376a11f_solving04.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/15587974c46d70920b6820c85376a11f_solving04.pdf
 file_size: 322880
 file_type: application/pdf
 learning_resource_types:
