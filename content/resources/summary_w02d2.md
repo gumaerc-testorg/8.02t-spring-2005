@@ -2,7 +2,7 @@
 content_type: resource
 description: This file talks about a new way of calculating electric fields i.e. Gauss's
   law.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/6f454a683dee009181e52e08803c9224_summary_w02d2.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/6f454a683dee009181e52e08803c9224_summary_w02d2.pdf
 file_size: 153977
 file_type: application/pdf
 learning_resource_types:

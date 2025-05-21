@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/d4f8e168c968754c135927ce1b6c436f_18dipThumb.jpg
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/d4f8e168c968754c135927ce1b6c436f_18dipThumb.jpg
 file_size: 9358
 file_type: image/jpeg
 image_metadata:

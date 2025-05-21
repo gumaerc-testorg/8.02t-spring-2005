@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes problems on electric and magnetic wave.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/3d9377e3b61981d5af8f113089ba421b_prs_w14d1.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/3d9377e3b61981d5af8f113089ba421b_prs_w14d1.pdf
 file_size: 281592
 file_type: application/pdf
 learning_resource_types:

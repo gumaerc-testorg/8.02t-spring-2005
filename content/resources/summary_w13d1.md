@@ -2,7 +2,7 @@
 content_type: resource
 description: This file talks about deriving the facts about EM waves and the wave
   equation from the full set of Maxwell?s Equations.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/7a227c88e24a689889dfe22a5e02af6f_summary_w13d1.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/7a227c88e24a689889dfe22a5e02af6f_summary_w13d1.pdf
 file_size: 388745
 file_type: application/pdf
 learning_resource_types:

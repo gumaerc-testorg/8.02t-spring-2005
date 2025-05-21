@@ -2,7 +2,7 @@
 content_type: resource
 description: This file deals with practicing the ideas of displacement current and
   the Poynting vector.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/dbefb0a155c17b85f4b1e9f88e8a9d29_summary_w12d3.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/dbefb0a155c17b85f4b1e9f88e8a9d29_summary_w12d3.pdf
 file_size: 110918
 file_type: application/pdf
 learning_resource_types:

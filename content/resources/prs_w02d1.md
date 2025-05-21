@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes objective type problems on masses in potentials,
   positive charge, negative charge, potential and energy, two point charges and potential
   landscape.
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/1840eda396cfce6f0854cdb391dfb17b_prs_w02d1.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/1840eda396cfce6f0854cdb391dfb17b_prs_w02d1.pdf
 file_size: 101618
 file_type: application/pdf
 learning_resource_types:

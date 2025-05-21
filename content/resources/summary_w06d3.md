@@ -4,7 +4,7 @@ description: 'This file talks about how to calculate the force and torque on a r
   loop of wire and definition of the magnetic dipole
 
   moment ? and then do a calculation using that moment.'
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/77d7771a06b297f77cd1f24a7c3cf109_summary_w06d3.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/77d7771a06b297f77cd1f24a7c3cf109_summary_w06d3.pdf
 file_size: 233815
 file_type: application/pdf
 learning_resource_types:

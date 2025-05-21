@@ -8,7 +8,7 @@ description: 'This resource includes the following topics:
   masses in potentials, electrostatics, gravity - electrostatics, potential and energy,
   potential landscape, potential created by pt charge, deriving E from V, configuration
   energy, and in class problem.'
-file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/b7a8083d46b9980583bf4336da37f1ed_presentati_w02d1.pdf
+file: /courses/8-02t-electricity-and-magnetism-spring-2005/b7a8083d46b9980583bf4336da37f1ed_presentati_w02d1.pdf
 file_size: 453001
 file_type: application/pdf
 learning_resource_types:
