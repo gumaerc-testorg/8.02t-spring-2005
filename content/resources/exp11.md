@@ -7,11 +7,11 @@ description: 'The objective of this file is to measure the resonance frequency a
   between driving voltage and driven current in such a circuit at, below, and above
   the resonance frequency, and to use DataStudio display capabilities to carry out
   these objectives.'
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/a3658f3cc38171a986253fd389b618cb_exp11.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/a3658f3cc38171a986253fd389b618cb_exp11.pdf
 file_size: 418431
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

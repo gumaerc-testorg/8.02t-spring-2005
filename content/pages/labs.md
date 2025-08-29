@@ -3,7 +3,7 @@ content_type: page
 description: This section lists the desktop experiments that were conducted during
   the class sessions.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 8f8ae142-b013-b61f-6075-6a830d093354

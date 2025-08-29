@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/28de7f72b1d16e59c610fc12768da8c6_16superconductorthumb.jpg
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/28de7f72b1d16e59c610fc12768da8c6_16superconductorthumb.jpg
 file_size: 5891
 file_type: image/jpeg
 image_metadata:

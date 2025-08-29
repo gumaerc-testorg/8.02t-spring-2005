@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes bulbs and batteries, RC circuit, force on charged
   particle, rail gun, dipole in field, helmholtz coil, iron filings and bent wire.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/264f72dfa9347b058f7d1ccc15b8472b_prs_w10d1.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/264f72dfa9347b058f7d1ccc15b8472b_prs_w10d1.pdf
 file_size: 1360077
 file_type: application/pdf
 learning_resource_types:

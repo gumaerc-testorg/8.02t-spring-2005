@@ -5,7 +5,7 @@ description: 'This resource includes the following topics:
   faraday?s law of induction, magnitude of b, moving over dipole, four prs questions,
   eddy current braking, levitating magnet  mutual inductance, transformer, magnetic
   materials, magnetization vector, and hysteresis in ferromagnets.'
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/1abd5afecb6ab0bc8fbcd0a337592ae9_presentati_w09d2.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/1abd5afecb6ab0bc8fbcd0a337592ae9_presentati_w09d2.pdf
 file_size: 933047
 file_type: application/pdf
 learning_resource_types:

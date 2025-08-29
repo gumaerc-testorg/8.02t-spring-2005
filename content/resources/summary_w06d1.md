@@ -2,7 +2,7 @@
 content_type: resource
 description: This file talks about magnetism and also includes an experiment of magnetic
   fields of a Bar magnet and of the earth.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/373b1dacdb62ea814ce569ff8b7ad60b_summary_w06d1.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/373b1dacdb62ea814ce569ff8b7ad60b_summary_w06d1.pdf
 file_size: 138149
 file_type: application/pdf
 learning_resource_types:
