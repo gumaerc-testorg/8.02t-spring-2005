@@ -3,7 +3,7 @@ content_type: resource
 description: This file talks about conductors & capacitors and introduces dielectrics,
   which are materials which when put into a capacitor decrease the electric field
   and hence increase the capacitance of the capacitor.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/bcbec74535e1ea4dd249c0d623ba5315_summary_w03d2.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/bcbec74535e1ea4dd249c0d623ba5315_summary_w03d2.pdf
 file_size: 141299
 file_type: application/pdf
 learning_resource_types:

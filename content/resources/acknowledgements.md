@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains acknowledgements to the persons who helped build
   this course.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/da2f99149ee9bd7f020bde60e4ddd411_acknowledgements.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/da2f99149ee9bd7f020bde60e4ddd411_acknowledgements.pdf
 file_size: 72100
 file_type: application/pdf
 learning_resource_types: []

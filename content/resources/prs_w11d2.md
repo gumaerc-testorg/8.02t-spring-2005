@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes problems related to RLC circuit.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/3774ab71f65a4fde9d4e0712b387af71_prs_w11d2.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/3774ab71f65a4fde9d4e0712b387af71_prs_w11d2.pdf
 file_size: 313019
 file_type: application/pdf
 learning_resource_types:

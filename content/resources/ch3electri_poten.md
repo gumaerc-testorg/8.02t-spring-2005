@@ -6,7 +6,7 @@ description: 'This resource includes the following topics:
   potential due to point charges, continuous charge distribution, deriving electric
   field from the electric potential, summary, problem-solving strategy: calculating
   electric potential, solved problems, conceptual questions, and additional problems.'
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/2290d16cb4d4f5affd3c57b6ab828ae8_ch3electri_poten.pdf
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/2290d16cb4d4f5affd3c57b6ab828ae8_ch3electri_poten.pdf
 file_size: 625755
 file_type: application/pdf
 learning_resource_types:
