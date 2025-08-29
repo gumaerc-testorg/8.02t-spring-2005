@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource is a supplementary file for experiment 4.
-file: /courses/8-02t-electricity-and-magnetism-spring-2005/78bf9a6ca7719f962539197fb50a3242_exp04a.ds
+file: /ol-ocw-studio-app/courses/8-02t-electricity-and-magnetism-spring-2005/78bf9a6ca7719f962539197fb50a3242_exp04a.ds
 file_size: 7423
 file_type: application/octet-stream
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
