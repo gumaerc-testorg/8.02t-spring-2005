@@ -11,7 +11,7 @@ video_metadata:
   youtube_id: null
 ---
 
-[Microsoft® Excel software](http://office.microsoft.com/) is recommended for viewing the .xls files in this section. Free [Microsoft® Excel viewer software](/msviewer) can also be used to view the .xls files. [DataStudio® Software](http://www.pasco.com/datastudio) is required to run the .ds files found in this section.
+{{% resource_link "a17dac2f-573a-4b80-b779-1756601783ec" "Microsoft® Excel software" %}} is recommended for viewing the .xls files in this section. Free [Microsoft® Excel viewer software](/msviewer) can also be used to view the .xls files. {{% resource_link "00ec5558-9a9d-4107-92aa-cdbd06845725" "DataStudio® Software" %}} is required to run the .ds files found in this section.
 
 The desktop experiments were conducted during the class sessions listed in the table.
 
